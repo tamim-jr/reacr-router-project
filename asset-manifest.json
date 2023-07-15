@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reacr-router-project/static/css/main.0bc5d721.css",
+    "main.js": "/reacr-router-project/static/js/main.d4085c62.js",
+    "static/js/787.8fedd6c6.chunk.js": "/reacr-router-project/static/js/787.8fedd6c6.chunk.js",
+    "index.html": "/reacr-router-project/index.html",
+    "main.0bc5d721.css.map": "/reacr-router-project/static/css/main.0bc5d721.css.map",
+    "main.d4085c62.js.map": "/reacr-router-project/static/js/main.d4085c62.js.map",
+    "787.8fedd6c6.chunk.js.map": "/reacr-router-project/static/js/787.8fedd6c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bc5d721.css",
+    "static/js/main.d4085c62.js"
+  ]
+}
